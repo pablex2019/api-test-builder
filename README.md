@@ -1,1 +1,1 @@
-"# api-test-builder" 
+API Test Builder es una herramienta para crear, organizar y ejecutar pruebas de APIs REST de forma rápida y estructurada. Permite definir requests, gestionar colecciones de tests y validar respuestas para mejorar la calidad y velocidad del desarrollo de software.
